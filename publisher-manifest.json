@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f141be952df7ed17fe97f754",
+  "owner": "jjjpkymfbak",
+  "repo": "page-615aeedc8a46f4ec9db1fa19",
+  "title": "大机场(Big)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "615aeedc8a46f4ec9db1fa19",
+      "a": "大机场(Big)",
+      "b": "",
+      "entity": "大机场(Big)",
+      "brand": "大机场(Big)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7d51ef4751024cd1ac6e61d38ccdcf4bf39dde5d3aac7c08c6072d7dbe597779",
+      "content": {
+        "keyword1": "大机场(Big)",
+        "keyword2": "",
+        "primary_entity": "大机场(Big)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大机场(Big)为你提供简单实在的跨平台配置指南与套餐选购建议，像朋友喝茶聊天一样，帮你理清设备配对、用量规划和日常排错。",
+          "AI_DESCRIPTION": "大机场(Big)为你提供简单实在的跨平台配置指南与套餐选购建议，像朋友喝茶聊天一样，帮你理清设备配对、用量规划和日常排错。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #FAF6F0;color: #26070B;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.65;letter-spacing: 0.02em}\n.site-wrapper {display: flex;min-height: 100vh}\n.side-nav {width: 200px;background-color: #58111A;color: #FAF6F0;position: sticky;top: 0;height: 100vh;padding: 36px 20px;display: flex;flex-direction: column;justify-content: space-between;flex-shrink: 0}\n.side-nav .nav-brand {font-size: 1.15rem;font-weight: 700;letter-spacing: 0.05em;padding-bottom: 24px;border-bottom: 2px solid #82222F}\n.side-nav ul {list-style: none;display: flex;flex-direction: column;gap: 16px;margin: 28px 0}\n.side-nav a {color: #FAF6F0;text-decoration: none;font-size: 0.95rem;display: block;padding: 6px 10px;border: 1px solid transparent}\n.side-nav a:hover {border: 1px solid #FAF6F0;background-color: #420A12}\n.side-nav .nav-meta {font-size: 0.75rem;color: #E2CFCE;line-height: 1.4;border-top: 1px solid #82222F;padding-top: 16px}\nmain {flex: 1;min-width: 0;padding: 0 40px 60px 40px}\n.hero {border-bottom: 4px solid #58111A;padding: 60px 0 48px 0;margin-bottom: 50px}\n.hero-tag {font-size: 0.9rem;text-transform: uppercase;color: #58111A;font-weight: 700;margin-bottom: 12px}\nh1 {font-size: clamp(3rem, 11vw, 9.5rem);line-height: 0.9;font-weight: 900;color: #58111A;letter-spacing: -0.03em;word-break: break-word;margin-bottom: 24px}\n.hero-intro {font-size: 1.25rem;max-width: 760px;color: #3E0C12;margin-top: 20px;line-height: 1.7}\nsection {margin-bottom: 60px}\n.section-head {border-bottom: 2px solid #58111A;padding-bottom: 12px;margin-bottom: 28px}\nh2 {font-size: 2rem;color: #58111A;letter-spacing: -0.01em}\n.lead-p {font-size: 1.05rem;color: #421015;margin-bottom: 24px;max-width: 700px}\n.stair-container {display: flex;flex-direction: column;gap: 20px}\n.plan-step {border: 3px solid #58111A;background-color: #FFFFFF;padding: 28px}\n.plan-step-1 {margin-left: 0;max-width: 75%}\n.plan-step-2 {margin-left: 12.5%;max-width: 75%;background-color: #FFF9F7;border-color: #58111A;outline: 3px solid #58111A;outline-offset: 4px}\n.plan-step-3 {margin-left: 25%;max-width: 75%}\n.plan-header {display: flex;flex-wrap: wrap;justify-content: space-between;align-items: baseline;border-bottom: 2px solid #58111A;padding-bottom: 14px;margin-bottom: 18px;gap: 10px}\n.plan-header h3 {font-size: 1.6rem;color: #58111A}\n.plan-badge {background-color: #58111A;color: #FAF6F0;font-size: 0.8rem;padding: 2px 8px;font-weight: 700;vertical-align: middle;margin-left: 8px}\n.price-block {text-align: right}\n.main-price {font-size: 1.8rem;font-weight: 900;color: #58111A}\n.annual-price {font-size: 0.85rem;color: #7A2832;display: block}\n.feature-list {list-style: none;margin: 16px 0 24px 0;display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px}\n.feature-list li {font-size: 0.95rem;padding-left: 16px;position: relative}\n.feature-list li::before {content: \"+\";position: absolute;left: 0;color: #58111A;font-weight: bold}\n.plan-action {display: inline-block;border: 2px solid #58111A;padding: 10px 22px;color: #58111A;text-decoration: none;font-weight: 700;background-color: #FAF6F0}\n.plan-action:hover {background-color: #58111A;color: #FAF6F0}\n.grid-two {display: grid;grid-template-columns: 1fr 1fr;gap: 24px}\n.card {border: 3px solid #58111A;background: #FFFFFF;padding: 24px}\n.card h3 {font-size: 1.25rem;color: #58111A;margin-bottom: 12px;border-bottom: 1px solid #E2CFCE;padding-bottom: 8px}\n.card p {font-size: 0.95rem;color: #381115;margin-bottom: 12px}\n.client-box {border: 3px solid #58111A;background-color: #FFFFFF;padding: 28px}\n.faq-cluster {margin-bottom: 28px}\n.faq-cluster-title {font-size: 1.25rem;color: #FAF6F0;background-color: #58111A;padding: 8px 16px;margin-bottom: 12px;display: inline-block}\n.faq-item {border: 2px solid #58111A;background: #FFFFFF;padding: 18px 20px;margin-bottom: 12px}\n.faq-item h4 {font-size: 1.05rem;color: #58111A;margin-bottom: 8px}\n.faq-item p {font-size: 0.92rem;color: #3B1418}\nfooter {border-top: 3px solid #58111A;padding-top: 24px;font-size: 0.85rem;color: #6C2B34;display: flex;justify-content: space-between;flex-wrap: wrap;gap: 12px}\n@media (max-width: 900px) {\n  .site-wrapper {flex-direction: column}\n  .side-nav {width: 100%;height: auto;position: relative;padding: 18px 24px}\n  .side-nav ul {flex-direction: row;flex-wrap: wrap;gap: 8px;margin: 14px 0 0 0}\n  .side-nav .nav-meta {display: none}\n  main {padding: 0 20px 40px 20px}\n  .plan-step-1, .plan-step-2, .plan-step-3 {margin-left: 0;max-width: 100%}\n  .grid-two {grid-template-columns: 1fr}\n}\n</style><div class=\"site-wrapper\">\n  <nav class=\"side-nav\">\n    <div>\n      <div class=\"nav-brand\">大机场(Big)</div>\n      <ul>\n        <li><a href=\"#about\">关于这里</a></li>\n        <li><a href=\"#plans\">方案梯队</a></li>\n        <li><a href=\"#clients\">软件与连接</a></li>\n        <li><a href=\"#guide\">上手步骤</a></li>\n        <li><a href=\"#faqs\">答疑清单</a></li>\n      </ul>\n    </div>\n    <div class=\"nav-meta\">\n      纯文本说明页<br>\n      喝杯茶，慢慢选\n    </div>\n  </nav>\n\n  <main>\n    <header class=\"hero\">\n      <div class=\"hero-tag\">Welcome Friend · 随时联通</div>\n      <h1>大机场(Big)</h1>\n      <p class=\"hero-intro\">嘿，朋友！网络设置其实真不用搞得像在修火箭。这里把日常可能用到的用量档位、设备适配方法和常见小麻烦都列清楚了，拿杯咖啡，花两分钟看看哪个合适你就行。</p>\n    </header>\n\n    <section id=\"about\">\n      <div class=\"section-head\">\n        <h2>先聊两句，这里怎么选？</h2>\n      </div>\n      <p class=\"lead-p\">大家上网的习惯都不太一样。有人就查查工作资料，有人要在客厅电视上看超清剧集，还有人打算跟宿舍室友或者小团队一起合用。挑选方案的核心就两点：平时要跑多少流量，以及同时有多少台设备要在线。</p>\n      <div class=\"grid-two\">\n        <div class=\"card\">\n          <h3>看清自己的真实用量</h3>\n          <p>如果你只是每天收发邮件、查查文档和社交软件浏览，每个月百来个G绰绰有余；但若是习惯挂着高分辨率视频当背景音，或者家里智能设备较多，直接选中间那一档会从容很多。</p>\n        </div>\n        <div class=\"card\">\n          <h3>设备配额怎么算</h3>\n          <p>手机、平板加一台笔记本电脑就是三台设备。如果是家庭多成员或者办公室环境，一定要留出富余的设备余量，免得关键时候互相挤下线。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <div class=\"section-head\">\n        <h2>方案阶梯，一级一级慢慢挑</h2>\n      </div>\n      <p class=\"lead-p\">我们把三种常见的配置方案排成了阶梯。从小试牛刀的基础配置，到均衡省心的主流选择，再到多人共享的宽裕大包，价格与权益清清楚楚。</p>\n\n      <div class=\"stair-container\">\n        <article class=\"plan-step plan-step-1\">\n          <div class=\"plan-header\">\n            <div>\n              <h3>基础版</h3>\n            </div>\n            <div class=\"price-block\">\n              <span class=\"main-price\">¥15/月</span>\n              <span class=\"annual-price\">按年付仅需 ¥150/年</span>\n            </div>\n          </div>\n          <p>给轻度冲浪的朋友准备的起点方案，打理日常轻量需求很合适，不浪费每一分钱。</p>\n          <ul class=\"feature-list\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n          <a href=\"#\" class=\"plan-action\">选择基础版</a>\n        </article>\n\n        <article class=\"plan-step plan-step-2\">\n          <div class=\"plan-header\">\n            <div>\n              <h3>旗舰版 <span class=\"plan-badge\">最多朋友选</span></h3>\n            </div>\n            <div class=\"price-block\">\n              <span class=\"main-price\">¥35/月</span>\n              <span class=\"annual-price\">按年付仅需 ¥350/年</span>\n            </div>\n          </div>\n          <p>主力推荐档位。给爱看剧、爱打游戏，又不想天天盯着流量剩余的朋友，用着省心畅快。</p>\n          <ul class=\"feature-list\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n          <a href=\"#\" class=\"plan-action\">选择旗舰版</a>\n        </article>\n\n        <article class=\"plan-step plan-step-3\">\n          <div class=\"plan-header\">\n            <div>\n              <h3>团队版</h3>\n            </div>\n            <div class=\"price-block\">\n              <span class=\"main-price\">¥85/月</span>\n              <span class=\"annual-price\">按年付仅需 ¥850/年</span>\n            </div>\n          </div>\n          <p>适合多朋友合租、家庭共享或是小型工作室使用，高带宽和大流量让你彻底放下余量焦虑。</p>\n          <ul class=\"feature-list\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n          <a href=\"#\" class=\"plan-action\">选择团队版</a>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"clients\">\n      <div class=\"section-head\">\n        <h2>客户端与工具选择说明</h2>\n      </div>\n      <div class=\"client-box\">\n        <p>很多朋友第一次接触会问：“我要装什么软件？”其实你完全可以使用自己习惯的通用开源或第三方工具。由于各操作系统的生态不同，这里不做任何捆绑下载，建议你前往各个工具项目的官方开源仓库或受信任的社区获取客户端。</p>\n        <div class=\"grid-two\">\n          <div class=\"card\">\n            <h3>桌面端环境 (Windows / macOS / Linux)</h3>\n            <p>主流系统均有非常成熟的开源客户端支持。你只需在所选软件内找到“导入配置”或“粘贴订阅链接”，将你的专属凭证放入即可，不需要在复杂的网络层做多余改动。</p>\n          </div>\n          <div class=\"card\">\n            <h3>移动端设备 (iOS / Android)</h3>\n            <p>手机端通常支持通过二维码直接扫描同步配置，或者将剪贴板的配置链接一键填入。建议在系统提示添加网络配置文件时点击允许，即可正常跑起来。</p>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"guide\">\n      <div class=\"section-head\">\n        <h2>三步快速开始</h2>\n      </div>\n      <div class=\"grid-two\">\n        <div class=\"card\">\n          <h3>第一步：挑选并开通方案</h3>\n          <p>参考上方阶梯列表，根据你平时的设备数量与预估用量，挑一个合眼缘的。开通后你会拿到一段专属的配置参数或导入链接。</p>\n        </div>\n        <div class=\"card\">\n          <h3>第二步：把配置放进软件</h3>\n          <p>打开你常用的客户端，选择新建配置或扫码导入，把拿到的内容放进去并点击保存。软件会自动解析好节点信息。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <h3>第三步：轻按开关，测试联通</h3>\n        <p>开启客户端的网络接管总开关，打开浏览器尝试访问日常网站。如果有任何卡顿或无响应，先检查系统时间是否准确，这往往是八成联通问题的根源。</p>\n      </div>\n    </section>\n\n    <section id=\"faqs\">\n      <div class=\"section-head\">\n        <h2>常见问题整理（按主题）</h2>\n      </div>\n      <p class=\"lead-p\">碰上疑问别慌，这里分类整理了大家最常问的事情，看看有没有你正关心的：</p>\n\n      <div class=\"faq-cluster\">\n        <span class=\"faq-cluster-title\">主题一：套餐与账单事宜</span>\n        <article class=\"faq-item\">\n          <h4>中途流量用完了可以补充吗？</h4>\n          <p>可以的。如果你本月下载需求突然激增导致额度见底，可以在后台进行流量加购，或者直接升级到更高一级的阶梯方案，费用会自动按周期折算。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h4>月付和年付在权益上有区别吗？</h4>\n          <p>内容和节点权益是完全一致的，年付主要是给愿意长期使用的老朋友更实在的折扣，平均下来相当于每个月便宜了不少，省去每月手动续订的琐碎。</p>\n        </article>\n      </div>\n\n      <div class=\"faq-cluster\">\n        <span class=\"faq-cluster-title\">主题二：设备配额与日常使用</span>\n        <article class=\"faq-item\">\n          <h4>“支持 5 台设备”是指只能绑定 5 台机器吗？</h4>\n          <p>是指“同时处于连接状态”的设备数量。你的家里可能有 7-8 台设备都配置好了参数，但只要同一时间并发连接数不超过方案上限（如 5 台），就能正常工作，不需要解绑旧设备。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h4>合租或者团队使用，大家会互相影响吗？</h4>\n          <p>各设备的网络通道是独立的，但在流量总池上会共同扣减。如果是办公室或者多人团队，建议选择团队版，拥有 1000GB 充沛用量与 20 台在线配额，更适合协同办公。</p>\n        </article>\n      </div>\n\n      <div class=\"faq-cluster\">\n        <span class=\"faq-cluster-title\">主题三：网络调优与简单排错</span>\n        <article class=\"faq-item\">\n          <h4>为什么有时候显示已连接，网页却打不开？</h4>\n          <p>最常见的小原因是设备系统时间与网络标准时间存在误差，导致安全凭证校对失败。去电脑或手机设置里把时间改成“自动同步”，通常就能立刻解决。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h4>游戏优化专线有什么讲究？</h4>\n          <p>旗舰版及以上配置包含 IPLC 优化线路，主要特点在于点对点直接传输、不走公网波动拥堵段，对降低联机游戏延迟和丢包有很实在的改善。</p>\n        </article>\n      </div>\n    </section>\n\n    <footer>\n      <div>大机场(Big) · 诚恳清晰的方案指南</div>\n      <div>保持清醒与联通，祝你今天上网愉快！</div>\n    </footer>\n  </main>\n</div>",
+          "hash": "d9ece2be28cb42afa9861b64f0da7f8a43e056a04ed5574b0f5c7ba10cb9094a",
+          "seo": {
+            "title": "大机场(Big) - 轻松选定适合你的网络联通方案",
+            "keywords": "大机场,Big,网络方案,网络配置,流量套餐,设备联通",
+            "description": "大机场(Big)为你提供简单实在的跨平台配置指南与套餐选购建议，像朋友喝茶聊天一样，帮你理清设备配对、用量规划和日常排错。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1897",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ukatqbn.cn",
+    "host": "p-fa1bf7e210.ukatqbn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5460c989026001b08bf10b871983d5b93d851427c9a6eb7d90839b439cb2cfe2",
+    "sitemap.xml": "489064111143a20c92d77f8706f4945ca116949dd1d8331278a284bc81ce2690",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d32d575fb15b2fdcb6eea65c57e026b59b34df9a5dcb68c0e8e1831e69de062a",
+    "robots.txt": "fcf41d447b989df209f9a1c263a608ea3cc732ccf543dc02828a4133e1ffde3a",
+    "a8e481e4eab606482857849b921be07a.txt": "04641c7ce9938da2ce63711a036144bd33020bd444034ac7d95fb0e4ea6de161"
+  },
+  "revision": "af6db2020b1191007e3e94d06f3e7104b645042d3bedacd3e77b2713f4747db2"
+}
